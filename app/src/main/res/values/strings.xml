@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MYRA AI</string>
+    <string name="myra_shortcut_short">MYRA Voice</string>
+    <string name="myra_shortcut_long">Talk to MYRA AI</string>
+    <string name="myra_notification_channel_name">MYRA Voice Assistant</string>
+    <string name="myra_notification_channel_desc">Always-on voice standby and notification playback controls for MYRA AI</string>
+    <string name="myra_reminder_channel_name">MYRA Smart Reminders</string>
+    <string name="myra_reminder_channel_desc">Scheduled task and reminder alerts from MYRA AI</string>
+    <string name="ai_placeholder_notice">Offline Sample Mode: Live Gemini 3.5 Flash-Lite cloud responses require Firebase AI Logic setup in AI Studio.</string>
+    <string name="ai_live_connected_notice">Gemini 3.5 Flash-Lite • Live via Firebase AI Logic</string>
+    <string name="wake_greeting_hi">जी, मैं सुन रही हूँ। बताइए, क्या करना है?</string>
+    <string name="wake_greeting_en">Yes, I am listening. Tell me, how can I help you?</string>
+    <string name="wake_greeting_hinglish">Ji, main sun rahi hoon! Bataiye, kya karna hai?</string>
+    <string name="myra_widget_description">MYRA AI Full-Body Live Voice Assistant (1-tap Live ON / Permanent OFF)</string>
+    <string name="myra_widget_avatar_desc">MYRA AI full body avatar on home screen</string>
+</resources>

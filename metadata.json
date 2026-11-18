@@ -1,0 +1,6 @@
+{
+  "name": "MYRA AI",
+  "description": "Personal futuristic AI voice assistant in Hindi, English, and Hinglish powered by Gemini with speaker verification, Android system actions, reminders, and multimodal intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
